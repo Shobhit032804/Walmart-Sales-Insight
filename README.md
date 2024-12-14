@@ -35,4 +35,4 @@ The project focuses on transforming and analyzing Walmart’s sales data to reve
 3. Recreate the dashboard in Power BI or customize it to as per your requirements.
 
 ### Contact:-  
-For any queries or collaboration, connect via [LinkedIn](https://www.linkedin.com/in/shobhit-srivastava-23a608204/).
+For any queries or collaboration, connect with me via [LinkedIn](https://www.linkedin.com/in/shobhit-srivastava-23a608204/).
