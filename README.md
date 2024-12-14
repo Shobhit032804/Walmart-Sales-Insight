@@ -25,8 +25,8 @@ The project focuses on transforming and analyzing Walmart’s sales data to reve
 4. Member customer type contribute higher towards the gross income of the organization.
 
 ### Files in Repository:-  
-- Walmart_Sales_Dashboard.png: Power BI Report.  
-- Walmart_Data.csv: Walmart sales dataset.   
+- Walmart Sales Performance.png: Power BI Report.  
+- Walmart 1.csv: Walmart sales dataset.   
 - README.md: Documentation with project details.
 
 ### How to Use:-  
