@@ -1,4 +1,4 @@
-### Walmart-Sales-Insight
+### Walmart-Sales-Insights
  This project uses Power BI to analyze Walmart's sales data across various branches and locations, providing actionable insights into sales performance. Interactive visualizations highlight key performance indicators (KPIs) to support strategic decision-making.
 
 ### Overview:-  
